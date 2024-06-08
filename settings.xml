@@ -29,8 +29,8 @@ under the License.
   <servers>
     <server>
       <id>nexusdeploymentrepo</id>
-      <username>Admin</username>  <!-- Provide Your Nexus Repository Server Username and Password -->
-      <password>Admin</password>
+      <username>admin</username>  <!-- Provide Your Nexus Repository Server Username and Password -->
+      <password>admin</password>
     </server>
 
   </servers>
