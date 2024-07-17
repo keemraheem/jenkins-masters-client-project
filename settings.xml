@@ -60,7 +60,7 @@ under the License.
        <repository>
          <id>nexus-snapshot-repo</id>
          <name>your custom repo</name>
-         <url>http://172.31.23.41:8081/repository/maven-java-webapp-repository/</url>
+         <url>http://172.31.19.207:8081/repository/maven-java-webapp-repository/</url>
        </repository>
 	   
      </repositories>
@@ -71,7 +71,7 @@ under the License.
        <repository>
          <id>nexus-release-repo</id>
          <name>your custom repo</name>
-         <url>http://172.31.23.41:8081/repository/maven-java-webapp-repository/</url>
+         <url>http://172.31.19.207:8081/repository/maven-java-webapp-repository/</url>
        </repository>
      </repositories>
    </profile>
@@ -83,7 +83,7 @@ under the License.
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <sonar.host.url>http://18.218.253.7:9000</sonar.host.url>
+        <sonar.host.url>http://18.117.136.26:9000</sonar.host.url>
       </properties>
     </profile>
     <!--End SonarQube/Sonar Profile-->
